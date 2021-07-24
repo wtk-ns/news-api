@@ -17,11 +17,6 @@ Journals can be:
 
 Hours - time period for which news is needed (for the last .. hours)
 
-<h3>To test</h3>
-News from vc journal for last 12 hours: 
-<br>
-https://news-api-journals.herokuapp.com/journals/vc?hour=12 
-<br>
 
 <h3>Techs:</h3>
 <ul>
