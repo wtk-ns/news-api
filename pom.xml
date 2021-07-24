@@ -81,7 +81,7 @@
                     <appName>news-api-journals</appName>
                     <jdkVersion>1.8</jdkVersion>
                     <processTypes>
-                        <worker>java $JAVA_OPTS -cp target/classes:target/dependency/* io.wotkins.newsapi.api.NewsApiApplication</worker>
+                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* io.wotkins.newsapi.api.NewsApiApplication</web>
                     </processTypes>
                 </configuration>
             </plugin>
